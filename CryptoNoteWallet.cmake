@@ -1,0 +1,4 @@
+
+set(CN_PROJECT_NAME "Maple")
+set(CN_CURRENCY_DISPLAY_NAME "Maple Coin")
+set(CN_CURRENCY_TICKER "MAP")
