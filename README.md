@@ -1,3 +1,5 @@
+MapleCoionGUIWallet for Windows:
+
 **1. Clone wallet sources**
 
 ```
